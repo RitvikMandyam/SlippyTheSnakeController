@@ -1,0 +1,14 @@
+.video-container {
+    max-width: 80%; float: left;
+}
+
+.camera-stream {
+    width: 100%;
+}
+
+.directions-container {
+    max-width: 20%; 
+    float: right; 
+    overflow: hidden; 
+    white-space: nowrap;
+}
